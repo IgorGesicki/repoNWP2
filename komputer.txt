@@ -1,3 +1,4 @@
+zmiana 2
 zmiana
 
 test lokalny
