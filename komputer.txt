@@ -6,5 +6,5 @@ Konflikt
 >>>>>>> refs/remotes/origin/main
 zmiana 2
 zmiana
-
+zmiana w galezi cwiczenia
 test lokalny
