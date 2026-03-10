@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 bla bla bla 
 Tu bedzie konfikt
+=======
+Konflikt
+>>>>>>> refs/remotes/origin/main
 zmiana 2
 zmiana
 
