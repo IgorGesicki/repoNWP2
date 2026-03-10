@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+zmiana w main<<<<<<< HEAD
 bla bla bla 
 Tu bedzie konfikt
 =======
